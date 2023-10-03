@@ -62,7 +62,7 @@ $config = [
             'showScriptName' => false,
             // 'enableStrictParsing' => true,
             'rules' => [
-
+                // ['class' => 'yii\rest\UrlRule', 'controller' => 'post']
             ],
         ],
         
